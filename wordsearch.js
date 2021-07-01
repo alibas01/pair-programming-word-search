@@ -22,7 +22,6 @@ const transpose = function(matrix) {
     }
     output.push(arr);
   }
-
   return output;
 };
 
